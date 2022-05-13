@@ -2,9 +2,7 @@
 
 👀 I’m interested in Technology, Arts, Design, and Sports 
 
-🌱 I’m currently learning Web Development
-
-💞️ I’m looking to collaborate on Beginner Web Development Project
+🌱 I’m currently learning to code
 
 📫 Reach me through sidqi.averroes26@gmail.com
 
