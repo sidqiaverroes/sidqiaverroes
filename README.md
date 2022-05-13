@@ -9,11 +9,9 @@
 
 My Social Media:
 
-Instagram - sidqiaverroes
-
-LinkedIn - Sidqi Averroes
-
-Twitter - @deekyuofthings
+Instagram - sidqiaverroes | 
+LinkedIn - Sidqi Averroes | 
+Twitter - @deekyuofthings | 
 
 
 
