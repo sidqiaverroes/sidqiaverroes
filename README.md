@@ -1,8 +1,8 @@
-👋 Hi, I’m Sidqi Averroes
+👋 Hi, I’m Sidqi Averroes.
 
-👀 I’m interested in Technology, Arts, Design, and Sports 
+👀 I’m interested in Technology, Arts, Design, and Sports.
 
-🌱 I’m currently learning to code
+🌱 I’m currently learning UI/UX Design, Web App Development, Code
 
 📫 Reach me through sidqi.averroes26@gmail.com
 
