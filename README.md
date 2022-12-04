@@ -13,7 +13,9 @@ Instagram - sidqiaverroes |
 LinkedIn - Sidqi Averroes | 
 Twitter - @deekyuofthings | 
 
+[![Sidqi's github stats](https://github-readme-stats.vercel.app/api?username=sidqiaverroes&show_icons=true&theme=midnight-purple)](https://github-readme-stats.vercel.app/api?username=sidqiaverroes)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidqiaverroes&layout=compact&theme=midnight-purple)](https://github-readme-stats.vercel.app/api/top-langs/?username=sidqiaverroes)
 
 <!---
 sidqiaverroes/sidqiaverroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
