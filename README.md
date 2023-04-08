@@ -2,7 +2,7 @@
 
 👀 I’m interested in Technology, Arts, Design, and Sports.
 
-🌱 I’m currently learning UI/UX Design, Web App Development, Code
+🌱 I’m currently learning UI/UX Design, HTML/CSS/Javascript, Python, and C#
 
 📫 Reach me through sidqi.averroes26@gmail.com
 
